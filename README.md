@@ -1,1 +1,0 @@
-# Automated-testing-framework-for-a-saucedemo
